@@ -20,7 +20,7 @@ Use the client code on a Raspberry Pi that has:
 The main client files in this project are:
 
 - `iris_client.py`
-- `new.py`
-- `olla/esp.py`
+- `new.py` ## server code 
+
 
 Install the required dependencies first, then run the client code on the Pi with the hardware connected and configured.
